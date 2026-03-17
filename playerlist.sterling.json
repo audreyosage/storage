@@ -1,0 +1,2491 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"Sterling"
+		],
+		"description": "backup of the marked cheaters in sterling's list if needed (for whatever reason)",
+		"title": "Sterling List"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Komorebi",
+				"time": 1750477366
+			},
+			"proof": [
+				"aimbotting with shortstop"
+			],
+			"steamid": "[U:1:363583274]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lurkin",
+				"time": 1721172374
+			},
+			"proof": [
+				"rage toggled and insta-headshot when bombed",
+				"The 6 community server bans do not lie, nor do the cheat visuals visible in his screenshots (custom team colours)"
+			],
+			"steamid": "[U:1:455693607]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jack The Racist",
+				"time": 1748236304
+			},
+			"proof": [
+				"Ragehacking as spy with revolver"
+			],
+			"steamid": "[U:1:454217369]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ZubZub",
+				"time": 1748299367
+			},
+			"proof": [
+				"Obvious cheater, countless server bans"
+			],
+			"steamid": "[U:1:436771655]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "JOE",
+				"time": 1750566035
+			},
+			"proof": [
+				"Rage hacker, lobby with bunnyhopping 76561199813576188"
+			],
+			"steamid": "[U:1:1879894285]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Billy Badass",
+				"time": 1767723504
+			},
+			"proof": [
+				"aimbotting heavy"
+			],
+			"steamid": "[U:1:1632740380]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "koko",
+				"time": 1748678922
+			},
+			"proof": [
+				"first ever cheater to toggle off when accused"
+			],
+			"steamid": "[U:1:1206322066]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "crap",
+				"time": 1718746612
+			},
+			"proof": [
+				"alt of rage hacker 76561199577864062, compare same avatars used on both accounts https://imgur.com/a/9vXP8KM",
+				"deleted comments visible on steamhistory show that he has comments from the same friends, namely 76561199276768792 and alt 76561198424514497"
+			],
+			"steamid": "[U:1:1676157704]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "chud",
+				"time": 1732943737
+			},
+			"proof": [
+				"Cheating on sniper, fresh account"
+			],
+			"steamid": "[U:1:1843901814]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "melo",
+				"time": 1770613491
+			},
+			"proof": [
+				"Alt of 76561198795212782, helpful server ban"
+			],
+			"steamid": "[U:1:1430080866]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "zorce",
+				"time": 1722227556
+			},
+			"proof": [
+				"Garden-variety rage hacker, multiple server bans"
+			],
+			"steamid": "[U:1:862983413]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199655848498",
+				"time": 1742954383
+			},
+			"proof": [
+				"Cheater on hour-farmed account: 6,200 hours since March 2024 (out of 8,900 hours)",
+				"Edit: He was displeased with his marking's detail, so let's fix that:",
+				"He is also cheating on his YouTube channel: https://archive.vn/fRS9r (channel on profile) & https://archive.vn/V1yta (channel)",
+				"I don't think there is one projectile shot that actually goes where he is looking; forcing crits (and standing still for a moment to activate his crit key); etc.",
+				"Mirrored @ https://preservetube.com/watch?v=PXDIHUs-P7c",
+				"I'll get around to it again when he inevitably deletes it and that becomes unavailable"
+			],
+			"steamid": "[U:1:1695582770]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "daisy",
+				"time": 1750986878
+			},
+			"proof": [
+				"alt of 76561199655848498, 76561199527332112, others"
+			],
+			"steamid": "[U:1:1547965456]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Harvard Valedictorian",
+				"time": 1726500784
+			},
+			"proof": [
+				"Rage cheater: countless server bans, in cheat groups ('moneybot')"
+			],
+			"steamid": "[U:1:1567066384]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561198011724329",
+				"time": 1721761267
+			},
+			"proof": [
+				"Server bans; in our game, ragehacking one-trick pony"
+			],
+			"steamid": "[U:1:51458601]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pichu",
+				"time": 1719182983
+			},
+			"proof": [
+				"Automated anticheat ban and rage hacking in our game with FaN. Could not be any more obvious."
+			],
+			"steamid": "[U:1:1622476470]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DIckhead activities",
+				"time": 1717726740
+			},
+			"proof": [
+				"obviously aimbotting in our game with an automated anticheat server ban also half his friends list is just cheaters"
+			],
+			"steamid": "[U:1:1628817554]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "estrogen powered scout",
+				"time": 1750544203
+			},
+			"proof": [
+				"Cheater on purchased account; multiple server bans; multiple cheaters added/in comments (was with 76561199655848498)"
+			],
+			"steamid": "[U:1:1431729]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fem",
+				"time": 1718841790
+			},
+			"proof": [
+				"Chronic cheater with multiple alts and purchased accounts",
+				"Alts include 76561198027531633, now community banned owing to being purchased, and 76561199211053273, per server ban on the former",
+				"Shared aliases across this and 76561198027531633 + membership in same groups, such as groups/giriy and /-mj",
+				"recently RGL permabanned with two cheating offenses at once, which is seldom seen https://rgl.gg/Public/PlayerProfile.aspx?p=76561198968549023"
+			],
+			"steamid": "[U:1:1008283295]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bubba.Blake",
+				"time": 1750732656
+			},
+			"proof": [
+				"Reported cheater: nine server bans, one other list, friends list full of cheaters"
+			],
+			"steamid": "[U:1:1234456292]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mr Incredible Becoming Uncanny",
+				"time": 1750710422
+			},
+			"proof": [
+				"Alt of 76561199088744577, fresh account cheating"
+			],
+			"steamid": "[U:1:1128478849]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sir blunderbrain",
+				"time": 1730407338
+			},
+			"proof": [
+				"Two server bans: started toggling sniper aimbot"
+			],
+			"steamid": "[U:1:891200653]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FROYOBLK b4nny (scary)",
+				"time": 1734481929
+			},
+			"proof": [
+				"Cheater with nine server bans; forcing crits (5+ times on just one player), prefiring around corners"
+			],
+			"steamid": "[U:1:100310450]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Engi.Gaming",
+				"time": 1768266533
+			},
+			"proof": [
+				"ambassador aimbot with 2 server bans 2 and 6 days ago, game ban 28 days ago"
+			],
+			"steamid": "[U:1:1849420614]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Deezious Nuttus",
+				"time": 1767052834
+			},
+			"proof": [
+				"Cheating with direct hit, then switch to rage sniper"
+			],
+			"steamid": "[U:1:345568364]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ronald Raygun",
+				"time": 1770613491
+			},
+			"proof": [
+				"skial ban, still cheating"
+			],
+			"steamid": "[U:1:276247766]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SLIME BALL JAMAL",
+				"time": 1721761267
+			},
+			"proof": [
+				"Server bans, friends list full of cheaters, rage hacking in our game, 'rijin' as his Steam bio",
+				"also bought one of those 30-key unusuals cheaters buy and has a showcase saying 'i have unusuals i cant cheat'"
+			],
+			"steamid": "[U:1:1486501352]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bizop 1",
+				"time": 1744940219
+			},
+			"proof": [
+				"cheater in group with 76561199810520126"
+			],
+			"steamid": "[U:1:1253589391]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cardiac",
+				"time": 1752437237
+			},
+			"proof": [
+				"cheating on sniper, toggled after dying a few times on scout"
+			],
+			"steamid": "[U:1:487859840]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Not toxic",
+				"time": 1740182819
+			},
+			"proof": [
+				"Forcing crits and aimbot, generic rage hacker"
+			],
+			"steamid": "[U:1:1124700424]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "⁠‌﻿‌‌⁠​‍﻿⁠row!​‌​",
+				"time": 1764198587
+			},
+			"proof": [
+				"Account that woke up in June 2025 but was created in January 2020, viz. no badges before June except 5-year",
+				"Very poor gamesense but goes on rampages hitting 3-4 instant headshots in a row",
+				"Farmed strange count (check bp.tf), lag peeking with 30 ping, hitting crazy shots but unable to hit anything while spectated",
+				"confirmed: server ban for cheating"
+			],
+			"steamid": "[U:1:1055190585]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "M3GA",
+				"time": 1768789026
+			},
+			"proof": [
+				"aimbotting soldier"
+			],
+			"steamid": "[U:1:270475532]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "minecraft steve",
+				"time": 1719183024
+			},
+			"proof": [
+				"Stacked with 76561199582742198; also rage hacking with an automated anticheat ban."
+			],
+			"steamid": "[U:1:1564304616]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xaxaxaxaxaxa",
+				"time": 1717740517
+			},
+			"proof": [
+				"autostrafe + server bans + wannabe OG url like many cheaters 'critbans'"
+			],
+			"steamid": "[U:1:493350512]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I Have 800 Vac Bans",
+				"time": 1723265357
+			},
+			"proof": [
+				"Three server bans, queued with another rage hacker"
+			],
+			"steamid": "[U:1:1185535428]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lu",
+				"time": 1767052834
+			},
+			"proof": [
+				"Cheater on purchased account"
+			],
+			"steamid": "[U:1:304455]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "vagina_god193",
+				"time": 1734312609
+			},
+			"proof": [
+				"Unskilled rage cheater; prefires crits on people he cannot see, then switches to rage sniper"
+			],
+			"steamid": "[U:1:1082938261]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pre Post-Period Blues",
+				"time": 1718844168
+			},
+			"proof": [
+				"cheater who scraped his entire online footprint and abandoned account when exposed"
+			],
+			"steamid": "[U:1:1059360844]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xFlako",
+				"time": 1719215972
+			},
+			"proof": [
+				"Game and server bans, rage hacking"
+			],
+			"steamid": "[U:1:1575386440]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Marie",
+				"time": 1717717796
+			},
+			"proof": [
+				"https://archive.is/Y5vQs",
+				"has a million cheaters added, server ban, etc."
+			],
+			"steamid": "[U:1:1563123657]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pull off your Skin",
+				"time": 1728806866
+			},
+			"proof": [
+				"Three server bans, prefiring people he could not see, DM and gamesense totally inconsistent with KD, etc., obvious cheater.",
+				"Uploaded a screenshot of his own wallhacks: https://steamcommunity.com/sharedfiles/filedetails/?id=2924394368, in case he takes it down: https://archive.is/lY9eb"
+			],
+			"steamid": "[U:1:394228283]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "robertduncan #savetf2",
+				"time": 1725852968
+			},
+			"proof": [
+				"Obvious rage hacker in stack, see comments"
+			],
+			"steamid": "[U:1:1307136527]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "⁠‌﻿‌‌⁠​‍﻿Shrebean",
+				"time": 1764782141
+			},
+			"proof": [
+				"obvious sniper cheater, insta headshotting around walls"
+			],
+			"steamid": "[U:1:891584181]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sprooxie",
+				"time": 1755569831
+			},
+			"proof": [
+				"backtracking spy with bhop full rage etc"
+			],
+			"steamid": "[U:1:1569174393]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Asmongold TV",
+				"time": 1726274918
+			},
+			"proof": [
+				"Cheater using crit hacks, ESP, rage aimbot"
+			],
+			"steamid": "[U:1:1081659773]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GlawGlack",
+				"time": 1725852968
+			},
+			"proof": [
+				"Ragehacking, see comments, game banned, friends with other cheaters"
+			],
+			"steamid": "[U:1:1022447499]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Toilet Pimp",
+				"time": 1723265309
+			},
+			"proof": [
+				"Queued with cheater 76561199145801156 and rage hacking; archetypal cheater reaction when called out"
+			],
+			"steamid": "[U:1:265408812]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "little chuddy",
+				"time": 1754627227
+			},
+			"proof": [
+				"obvious cheater on new account rage hacking"
+			],
+			"steamid": "[U:1:1911924102]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vault707",
+				"time": 1770240638
+			},
+			"proof": [
+				"heavy aimbot and esp with 3 server bans"
+			],
+			"steamid": "[U:1:946497895]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Eevee Gaming",
+				"time": 1727641959
+			},
+			"proof": [
+				"switched to rage sniper when he started losing"
+			],
+			"steamid": "[U:1:1562360358]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Rudolph #Fix TF2",
+				"time": 1720533519
+			},
+			"proof": [
+				"https://www.youtube.com/watch?v=TPtfLx1lqLU Cheater on purchased account"
+			],
+			"steamid": "[U:1:27001825]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jesus Christ",
+				"time": 1727034556
+			},
+			"proof": [
+				"Fresh account cheating on soldier with DH, autoshoot + ESP + force crits"
+			],
+			"steamid": "[U:1:1788165969]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "$_Undead_Akaza_$",
+				"time": 1724197675
+			},
+			"proof": [
+				"Cheater on alt account (made seven months ago)",
+				"Rage crit hacks and aimbot on demo, rage airstrafing (lol)"
+			],
+			"steamid": "[U:1:1666585796]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hanksite (she/her) #TF2isFixed",
+				"time": 1720749396
+			},
+			"proof": [
+				"Rage hacking"
+			],
+			"steamid": "[U:1:164068778]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mia",
+				"time": 1719183103
+			},
+			"proof": [
+				"Two community server bans. Obvious rage hacker with 'I own closet cheaters' in his bio."
+			],
+			"steamid": "[U:1:1603991534]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gilbert",
+				"time": 1723000209
+			},
+			"proof": [
+				"2fort rage hacker, see server ban"
+			],
+			"steamid": "[U:1:1703088773]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "catlover23",
+				"time": 1728346680
+			},
+			"proof": [
+				"'Closet' cheater with very poorly hidden ESP and aimbot."
+			],
+			"steamid": "[U:1:907235895]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "F Student",
+				"time": 1750730806
+			},
+			"proof": [
+				"Very unskilled demo cheater with obvious ESP"
+			],
+			"steamid": "[U:1:164295139]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nizijder",
+				"time": 1752714136
+			},
+			"proof": [
+				"bhopping soldier with 300 hours every achievement and partied with a 4.2 hour cheater"
+			],
+			"steamid": "[U:1:1261556909]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "holy mid",
+				"time": 1770235404
+			},
+			"proof": [
+				"generic rage hacker, proceeds to blabber incoherently in chat about cheats 'rjiin stack' 'nitro discord' when accused"
+			],
+			"steamid": "[U:1:799277958]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pfffffft (lft)",
+				"time": 1725856842
+			},
+			"proof": [
+				"Alt of cheater 76561198415959335; looks to be cheating in scrims as well once more",
+				"Flagrantly triggerbotting on scout and sniper in his videos; channel linked on his profile: https://www.youtube.com/@pfffffffffffft"
+			],
+			"steamid": "[U:1:1223366491]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "paul",
+				"time": 1749968574
+			},
+			"proof": [
+				"rage toggling sniper obvious as fuck"
+			],
+			"steamid": "[U:1:1299757754]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Houston, we have a gf",
+				"time": 1748564387
+			},
+			"proof": [
+				"party cheater, will gaslight votes"
+			],
+			"steamid": "[U:1:903631049]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kennelbait",
+				"time": 1766017903
+			},
+			"proof": [
+				"Cheating sniper; rage aimbotting, started spinning, has server ban",
+				"This is also an obviously purchased account. Reports CAN get these banned, so feel free to report for hijacked/stolen account",
+				"It has no history prior to March 2025 despite being made in 2005, etc."
+			],
+			"steamid": "[U:1:19295195]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Eclypse",
+				"time": 1749957211
+			},
+			"proof": [
+				"obvious cheater on new account",
+				"He is also banned from fluffycat.gay (that is actually the server name): https://i.imgur.com/s3tCkQI.png",
+				"https://sourcebans.fluffycat.gay/index.php?p=banlist&searchText=STEAM_0%3A0%3A916712259&Submit=Search",
+				"Video evidence (submitted graciously by his own friend ^_^): https://youtu.be/jkXME1zCC-Y",
+				"Better video: https://www.youtube.com/watch?v=Mn9dhZs_y8U"
+			],
+			"steamid": "[U:1:1833424518]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "og perma virgin",
+				"time": 1765221652
+			},
+			"proof": [
+				"Cheating scout with multiple bans; staring at people through walls then jumping out to force crit them, 3 crits in a row"
+			],
+			"steamid": "[U:1:1569726395]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "watercat",
+				"time": 1735597579
+			},
+			"proof": [
+				"Cheater with two server bans; obviously idled hours and multiple game bans"
+			],
+			"steamid": "[U:1:1425965490]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "KD Matters",
+				"time": 1749278050
+			},
+			"proof": [
+				"aimbotting as scout, crit hacking, game ban 30 days ago, server bans, etc"
+			],
+			"steamid": "[U:1:1143248848]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Le Epic BROFIST",
+				"time": 1750985831
+			},
+			"proof": [
+				"several server bans etc"
+			],
+			"steamid": "[U:1:347892264]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "gay",
+				"time": 1748649851
+			},
+			"proof": [
+				"spinning"
+			],
+			"steamid": "[U:1:1901025639]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "gwyn",
+				"time": 1747782315
+			},
+			"proof": [
+				"Rage-toggling sniper"
+			],
+			"steamid": "[U:1:1605258254]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xel",
+				"time": 1734730192
+			},
+			"proof": [
+				"two automated anticheat server bans; immediately went DH in warmup and started preaiming at people through walls"
+			],
+			"steamid": "[U:1:1317889242]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Samarie",
+				"time": 1749542737
+			},
+			"proof": [
+				"clueless sniper toggling cheater"
+			],
+			"steamid": "[U:1:105623551]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "⁠‌﻿‌‌⁠​‍﻿⁠Bleh​‌​",
+				"time": 1764635671
+			},
+			"proof": [
+				"Sniper closet cheater with nonetheless obvious aimbot; will headshot you while aiming several degrees away",
+				"Preaims through walls, the works"
+			],
+			"steamid": "[U:1:295953114]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "caramelised eggs",
+				"time": 1753693477
+			},
+			"proof": [
+				"Cheating on demo: fresh account made two months ago",
+				"Confidently walks to and crits players when necessary, rage autostrafe, etc.",
+				"*Likely*, but not certain, alt of chronic cheater 76561199577864062, others",
+				"Confirmed to be cheating regardless of whether or not he is an alt."
+			],
+			"steamid": "[U:1:1894070537]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gasser",
+				"time": 1732943737
+			},
+			"proof": [
+				"ragehacking huntsman on brand-new account"
+			],
+			"steamid": "[U:1:1603310940]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "⁠‌﻿‌‌⁠​‍﻿⁠Fem!Rimuru Tempest‌‌​‌​",
+				"time": 1764055616
+			},
+			"proof": [
+				"1 year old account rage crit cheating and aimbotting",
+				"⁠‌﻿‌‌⁠​‍﻿⁠Fem!Rimuru Tempest‌‌​‌​ :  ﻿⁠﻿‍⁠The Apple Family's secret crit recipe is a classic!﻿​﻿​​​‌﻿​﻿"
+			],
+			"steamid": "[U:1:1681270383]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "b@",
+				"time": 1751789808
+			},
+			"proof": [
+				"Chronic cheater, alt of 76561198193056827: will attempt to votekick innocent players",
+				"This is the cheater 'AdaRose'/'JadedRoses' (hilariously, acted as a 'cheater consultant' on a video accusing a youtuber of cheating: https://youtu.be/v367y8iMo88?si=XSh58ts_9ZxNv1tS&t=1054",
+				"cf. Skial ban on other account, marking on Sleepy's list, laughably obvious auto-airblast and ESP in-game"
+			],
+			"steamid": "[U:1:122798250]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vivian",
+				"time": 1743112934
+			},
+			"proof": [
+				"Chronic cheater on purchased account"
+			],
+			"steamid": "[U:1:151788995]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "T",
+				"time": 1717402112
+			},
+			"proof": [
+				"https://archive.is/k5t5C"
+			],
+			"steamid": "[U:1:1617598334]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ミカ~",
+				"time": 1717718283
+			},
+			"proof": [
+				"multiple server bans and no they aren't false",
+				"extremely obvious crit hacks and esp",
+				"https://lmaobox.net/forum/v/profile/comments/34529754/Festiv3x",
+				"backup: https://imgur.com/a/HCyqheq",
+				"playing with cheaters: https://www.youtube.com/watch?v=lJhUEA6b_qQ and in a bunch of other videos on that same channel"
+			],
+			"steamid": "[U:1:115982075]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "yo",
+				"time": 1717729630
+			},
+			"proof": [
+				"https://archive.is/MgwPK blatantly bypassing sv_pure and even different colours in scoreboard"
+			],
+			"steamid": "[U:1:1316503064]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Boundds",
+				"time": 1717740722
+			},
+			"proof": [
+				"obvious ragehacker + shot someone and immediately turned 60 degrees i didnt clip it though"
+			],
+			"steamid": "[U:1:275903628]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "creoleninja",
+				"time": 1717794245
+			},
+			"proof": [
+				"huntsman aimbot"
+			],
+			"steamid": "[U:1:1482202825]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "✦SEVEN✦",
+				"time": 1718753894
+			},
+			"proof": [
+				"critting people all the time and around corners in our game, prefiring",
+				"brand new account in multiple cheater groups https://imgur.com/ztadvil"
+			],
+			"steamid": "[U:1:1694424296]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nefraiku",
+				"time": 1718844168
+			},
+			"proof": [
+				"Alt account (https://www.youtube.com/watch?v=OWAi_UUm48k) of confirmed (in the video) cheater 76561198083063978",
+				"Flagrantly cheating as pyro when we played against him: unparalleled reflect timing and going straight to people to kill them with no info and no reason to go to their positions",
+				"The video was taken down because it was uploaded by another cheater who has since scrubbed his online persona, so more info:",
+				"This is the cheater 'AdaRose'/'JadedRoses' (hilariously, acted as a 'cheater consultant' on a video accusing a youtuber of cheating: https://youtu.be/v367y8iMo88?si=XSh58ts_9ZxNv1tS&t=1054)"
+			],
+			"steamid": "[U:1:232791099]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Piss Master",
+				"time": 1720322376
+			},
+			"proof": [
+				"rage hacking in our game, instant headshots, bhopping, fresh account",
+				"his only friend is 76561198860365325, his main account, manually game banned by valve"
+			],
+			"steamid": "[U:1:1583107771]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fish Fisherman",
+				"time": 1720399356
+			},
+			"proof": [
+				"very blatant cheater: rage airstrafing, bhopping, shooting at us with aimbot across the map, spamming force crits",
+				"server ban for cheating, though it was removed--pubber admins are known to do this and also I'll assume he wasn't rage hacking on their servers"
+			],
+			"steamid": "[U:1:58390294]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "♥QueenKitty♥",
+				"time": 1720533519
+			},
+			"proof": [
+				"https://www.youtube.com/watch?v=XD-BycmLLYQ, status confirms his ID at 1:44"
+			],
+			"steamid": "[U:1:1738618189]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bygones",
+				"time": 1720586575
+			},
+			"proof": [
+				"Three community server bans, xarq0n fanboy groups, aimbotting stickies (WHY???)"
+			],
+			"steamid": "[U:1:96900672]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tf1 enjoyer | #FixTF2",
+				"time": 1720749396
+			},
+			"proof": [
+				"Rage hacking",
+				"queued with cheater [U:1:164068778] and has a VAC ban *3* days ago"
+			],
+			"steamid": "[U:1:99990594]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jinx",
+				"time": 1721761267
+			},
+			"proof": [
+				"Brand new account that started rage hacking at the end of a game.",
+				"Video still needs to be edited; somewhere in our clips as of right now",
+				"In a cheater group (groups/neverusahackonmainacc) and was copying cheat youtuber Boring Channel with his entire profile when encountered"
+			],
+			"steamid": "[U:1:1690977600]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Shaquile O'Games",
+				"time": 1723942110
+			},
+			"proof": [
+				"Cheating as scout with aimbot, crit hacks, and ESP. Very obvious, hitting every shot and critting exactly when he needs it"
+			],
+			"steamid": "[U:1:42314417]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Engineer #SaveTF2",
+				"time": 1725852968
+			},
+			"proof": [
+				"Ragehacker with frame-perfect bhops and fresh account"
+			],
+			"steamid": "[U:1:111183256]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "-haris",
+				"time": 1725856842
+			},
+			"proof": [
+				"Alt of cheater 76561198415959335, 76561199183632219; longtime cheater on main and alts"
+			],
+			"steamid": "[U:1:1259641845]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jerrod",
+				"time": 1725920707
+			},
+			"proof": [
+				"Cheater on purchased account",
+				"Aimbotting as heavy (does far too much damage, esp. around walls, with clueless positioning); been cheating for a while judging by the server ban: https://i.imgur.com/4p0PaHT.png",
+				"Update to clarify how the account is purchased: all signs indicate it 'woke up' in 2019; his Mercenary badge is from that year,",
+				"and his account has no history whatsoever--on ANY site, even ONCE--prior to then. You can also see that he has no achievements,",
+				"in any game, earned prior to 2019, but the Steam achievement system dates back to long before that. Also, his TF2 review indicates he had 2,800 hours by November 2019,",
+				"and 1,200 since, so it'd be more likely to see *more* activity on the account before 2019 (of which there is *zero*) on, e.g., SteamRep, than after, which is the case.",
+				"Update: caught discussing his epic cheating strategies in the lmaobox telegram under his own alias: https://i.imgur.com/VYy1mcK.png"
+			],
+			"steamid": "[U:1:2287157]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PooPoo Prince",
+				"time": 1727034556
+			},
+			"proof": [
+				"Fresh account cheating on sniper, at least aim/triggerbot + ESP"
+			],
+			"steamid": "[U:1:1636475830]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bladdertwins23",
+				"time": 1729233994
+			},
+			"proof": [
+				"Alt account of cheater 76561198415126005 (compare name history)"
+			],
+			"steamid": "[U:1:417440473]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Average Cheadle Enjoyer",
+				"time": 1729233994
+			},
+			"proof": [
+				"ragehacking on throwaway account"
+			],
+			"steamid": "[U:1:1576072150]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "chipchanzee",
+				"time": 1729233994
+			},
+			"proof": [
+				"ragehacking on throwaway account stacked with 2 other cheaters"
+			],
+			"steamid": "[U:1:1819914291]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gulfshots",
+				"time": 1729569933
+			},
+			"proof": [
+				"Rage hacker on fresh account"
+			],
+			"steamid": "[U:1:1602000821]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Just having fun",
+				"time": 1730085758
+			},
+			"proof": [
+				"Rage hacker on fresh account, heavy with aimbot"
+			],
+			"steamid": "[U:1:1833310183]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Tommy Shelby",
+				"time": 1730085758
+			},
+			"proof": [
+				"Cheater's accomplice playing with 76561199129592652, enabled large-FOV Ambassador aimbot and was promptly kicked"
+			],
+			"steamid": "[U:1:1169326924]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SeximusTheThird",
+				"time": 1730414184
+			},
+			"proof": [
+				"Obvious cheater with heavy aimbot, ragehacking and still losing fights because he has no gamesense but perfect aim"
+			],
+			"steamid": "[U:1:88303978]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Heavy is sandvich",
+				"time": 1730668181
+			},
+			"proof": [
+				"Ragehacker: crit hacking and aimbotting with DH, then went sniper"
+			],
+			"steamid": "[U:1:70987257]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "daisy",
+				"time": 1730862586
+			},
+			"proof": [
+				"Chronic cheater; alt of 76561199527332112, per shared aliases and items, e.g., https://backpack.tf/item/5871711719"
+			],
+			"steamid": "[U:1:1724603093]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "A. Bettik",
+				"time": 1732348678
+			},
+			"proof": [
+				"Cheater on purchased account: aimbot, ESP"
+			],
+			"steamid": "[U:1:2594696]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FUCK THIS STUPID PARK",
+				"time": 1732352413
+			},
+			"proof": [
+				"Spamming forced crits, consistently shooting three in a row",
+				"Also, the account is 11 months old and almost immediately got a game and VAC ban"
+			],
+			"steamid": "[U:1:1614802637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Boring",
+				"time": 1733040964
+			},
+			"proof": [
+				"backtrack spy; stabbing from 10 feet away"
+			],
+			"steamid": "[U:1:340397190]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "spaghetti",
+				"time": 1734397369
+			},
+			"proof": [
+				"Demo rage aimbotting with Loch-n-Load; crit hacking and aimbotting, shooting two crits in a row around walls and being aimed directly on people when they peek out without foreknowledge"
+			],
+			"steamid": "[U:1:210665914]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Heart",
+				"time": 1734730192
+			},
+			"proof": [
+				"Cheater and accomplice to cheater 76561199278154970; will gaslight and troll in chat to obfuscate accusations"
+			],
+			"steamid": "[U:1:119094420]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "?",
+				"time": 1734846168
+			},
+			"proof": [
+				"Raging sniper with 1.6 hours in TF2"
+			],
+			"steamid": "[U:1:1801651179]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "A Bag of Cocaine",
+				"time": 1735017911
+			},
+			"proof": [
+				"Longtime ragehacker"
+			],
+			"steamid": "[U:1:1279072694]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LOL get kneeled on",
+				"time": 1735017911
+			},
+			"proof": [
+				"cheater on fresh account"
+			],
+			"steamid": "[U:1:1842177768]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Soupy Sales",
+				"time": 1735264461
+			},
+			"proof": [
+				"Sniper toggle: went from horribly missing every shot on projectile classes to immediately headshotting the second someone peeks"
+			],
+			"steamid": "[U:1:415888079]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "vlog",
+				"time": 1735279628
+			},
+			"proof": [
+				"Obvious cheater on hour-farmed account"
+			],
+			"steamid": "[U:1:896005237]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Wet Floor",
+				"time": 1735696123
+			},
+			"proof": [
+				"Obvious aimbot with absolutely no gamesense; positioning of a F2P but hitting one-pixel shots"
+			],
+			"steamid": "[U:1:1446401775]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "gnol",
+				"time": 1741037268
+			},
+			"proof": [
+				"poorly hidden ragehacks"
+			],
+			"steamid": "[U:1:1155479007]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Skittles",
+				"time": 1741315113
+			},
+			"proof": [
+				"Cheater on purchased account: obvious in game, but also used the same URL on 76561197992711007"
+			],
+			"steamid": "[U:1:34357263]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pittsburgh Eddie",
+				"time": 1742926053
+			},
+			"proof": [
+				"Spy rage hacker: wallhack, watching enemies through walls to attack them"
+			],
+			"steamid": "[U:1:1615920987]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pill-Popping Narcissist",
+				"time": 1744225564
+			},
+			"proof": [
+				"Extremely toxic closet cheater with permanent community ban, with extensive history of abusing, harassing, and stalking other players dating back years",
+				"Uses his alt 76561198275328547 to harass people, where he has a cheater meme as his avatar (https://i.imgur.com/Tvzrf5E.png, another cheater's face dox)"
+			],
+			"steamid": "[U:1:104108910]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "heartandsoulfx@gmail.com",
+				"time": 1744225564
+			},
+			"proof": [
+				"Alt of cheater 76561198064374638"
+			],
+			"steamid": "[U:1:315062819]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bizøp 1",
+				"time": 1744940219
+			},
+			"proof": [
+				"cheater on throwaway account"
+			],
+			"steamid": "[U:1:1850254398]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Old Jim",
+				"time": 1748190824
+			},
+			"proof": [
+				"First day cheating: rage aimbot and crit hacks"
+			],
+			"steamid": "[U:1:87471171]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dome to your head",
+				"time": 1748219008
+			},
+			"proof": [
+				"Ragehacking in-game"
+			],
+			"steamid": "[U:1:1804140772]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "_rt_FullFrameFB",
+				"time": 1748245420
+			},
+			"proof": [
+				"Throwaway account blatantly cheating as demo, predicting dets around walls"
+			],
+			"steamid": "[U:1:1886135023]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "testiculartorsiongaming28",
+				"time": 1748245420
+			},
+			"proof": [
+				"Ragehacking lobby cheater on throwaway account"
+			],
+			"steamid": "[U:1:1892353780]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LOOKIN' 4 DA WIFE!!",
+				"time": 1748245420
+			},
+			"proof": [
+				"Ragehacking lobby cheater on throwaway account"
+			],
+			"steamid": "[U:1:1898721483]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lemmestrokeyoshit25",
+				"time": 1748299367
+			},
+			"proof": [
+				"Obvious group cheater"
+			],
+			"steamid": "[U:1:144360068]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sigma Griffin",
+				"time": 1748388203
+			},
+			"proof": [
+				"generic human cheatbot"
+			],
+			"steamid": "[U:1:1736322510]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VALVƐ]kenz0",
+				"time": 1748578126
+			},
+			"proof": [
+				"most interesting cheater"
+			],
+			"steamid": "[U:1:1871877107]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199819400923",
+				"time": 1748649851
+			},
+			"proof": [
+				"rage lobby"
+			],
+			"steamid": "[U:1:1859135195]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hungrymanfreezerisle9",
+				"time": 1748747000
+			},
+			"proof": [
+				"bhop, auto air strafe, aimbot, the works"
+			],
+			"steamid": "[U:1:1478293766]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "huckstablehunter457",
+				"time": 1748747000
+			},
+			"proof": [
+				"party rage hacker"
+			],
+			"steamid": "[U:1:1901265164]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I CRUSH THE ALIEN",
+				"time": 1749106758
+			},
+			"proof": [
+				"rage heavy"
+			],
+			"steamid": "[U:1:1151699266]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "271k",
+				"time": 1749619895
+			},
+			"proof": [
+				"extremely inept direct hit cheater, force crits, esp"
+			],
+			"steamid": "[U:1:1895090712]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hawaii",
+				"time": 1749709057
+			},
+			"proof": [
+				"Cheater with nopush"
+			],
+			"steamid": "[U:1:1872196481]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dixonmary",
+				"time": 1750306194
+			},
+			"proof": [
+				"f2p cheating demo on fresh account, force crits + esp"
+			],
+			"steamid": "[U:1:1856440937]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "benjoe226",
+				"time": 1750315692
+			},
+			"proof": [
+				"ragehacking heavy on fresh account"
+			],
+			"steamid": "[U:1:1889468637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "-AA- .FeRaL' [#BanPitBulls!]",
+				"time": 1750544203
+			},
+			"proof": [
+				"Cheater on purchased account; pretending to be in sniper group AA to deflect cheating accusations"
+			],
+			"steamid": "[U:1:39162390]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ExplodeRickMayIntoBlubber",
+				"time": 1750565948
+			},
+			"proof": [
+				"Cheater of the 'rage toggle to get dominated by a legit' variety; fresh account, would recommend reporting,",
+				"as the profile is an 'epic baiter'-type cheater and is likely to amass enough reports for a ban"
+			],
+			"steamid": "[U:1:1905428720]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "JUS GIMME MY SUSILY",
+				"time": 1750566035
+			},
+			"proof": [
+				"Rage hacker, lobby with other fresh account cheater 76561199840160013"
+			],
+			"steamid": "[U:1:1853310460]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ุ",
+				"time": 1751153561
+			},
+			"proof": [
+				"generic sniper cheater",
+				"You can find his old account at 76561199062636343, where he has FIVE server bans for cheating"
+			],
+			"steamid": "[U:1:1272099585]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "faith",
+				"time": 1751155053
+			},
+			"proof": [
+				"obviously purchased account"
+			],
+			"steamid": "[U:1:37696505]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "im small baby im sorry",
+				"time": 1751257537
+			},
+			"proof": [
+				"cheating on spy, toggled on sniper at end of game"
+			],
+			"steamid": "[U:1:1302707633]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hurt :)",
+				"time": 1751789808
+			},
+			"proof": [
+				"Alt account of inveterate cheater 76561199655848498; this account is likely also purchased"
+			],
+			"steamid": "[U:1:1106776900]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "çocuk tecavüzcüsü 35",
+				"time": 1752269385
+			},
+			"proof": [
+				"cheater on fresh account, 42:3 as sniper"
+			],
+			"steamid": "[U:1:1916798087]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "swag12",
+				"time": 1752714547
+			},
+			"proof": [
+				"4.2 hour cheater with every achievement and game ban partied with another cheater"
+			],
+			"steamid": "[U:1:1245925973]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "etpe2010",
+				"time": 1753744522
+			},
+			"proof": [
+				"21:3, fresh account, bazaar bargain, could hear him hitting 10 shots in a row, ragehacker"
+			],
+			"steamid": "[U:1:1691990374]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BillinChillin",
+				"time": 1753744547
+			},
+			"proof": [
+				"F2P sniper cheater: game ban 1 day ago (lol), ragehacker"
+			],
+			"steamid": "[U:1:1860143745]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown Player",
+				"time": 1753744597
+			},
+			"proof": [
+				"walling/crit cheating/proj aimbot w direct hit (account deleted by Steam: added for documentation purposes)"
+			],
+			"steamid": "[U:1:1922090283]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Reddit Turbo Virgin",
+				"time": 1753745042
+			},
+			"proof": [
+				"f2p scout cheater: aimbot, esp, was like 23:1 then went negative when spectated"
+			],
+			"steamid": "[U:1:40037774]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "trigger happy",
+				"time": 1754034308
+			},
+			"proof": [
+				"huntsman aimbotter on fresh account, real name is 'tomas curda' (lmaobox creator)"
+			],
+			"steamid": "[U:1:1916254175]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dewitch",
+				"time": 1754172281
+			},
+			"proof": [
+				"cheater (aimbot/esp) with recent rgl ban https://rgl.gg/Public/PlayerProfile?p=76561198404667893"
+			],
+			"steamid": "[U:1:444402165]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "It's just a game!",
+				"time": 1754635844
+			},
+			"proof": [
+				"blatant, literal brand new account, alt of 76561199655848498, 76561199508231184, others",
+				"Started seeing use as soon as 76561199655848498's mark was updated; also looked up on SH within hours of creation,",
+				"which is obviously unheard of for actual F2Ps but routine for cheater alts"
+			],
+			"steamid": "[U:1:1915425779]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Money Man",
+				"time": 1754959153
+			},
+			"proof": [
+				"rage hacking engi on fresh account aimbot crits esp etc"
+			],
+			"steamid": "[U:1:1925549342]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Tyler K (I Won!)",
+				"time": 1755562392
+			},
+			"proof": [
+				"sniper cheater aiming through walls to headshot people immediately, also on a 2-month-old account"
+			],
+			"steamid": "[U:1:1902545619]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HHGREGG",
+				"time": 1755569809
+			},
+			"proof": [
+				"bhopping vac medic with esp"
+			],
+			"steamid": "[U:1:1922796900]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hazard",
+				"time": 1755569911
+			},
+			"proof": [
+				"cheating sniper on 2 week old account pocketed by cheating medic 76561199883062628"
+			],
+			"steamid": "[U:1:1924909149]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FaithfulDisguise",
+				"time": 1755569927
+			},
+			"proof": [
+				"direct hit rage hacker with 57 hours and every achievement"
+			],
+			"steamid": "[U:1:435129240]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ߍ߫",
+				"time": 1758996739
+			},
+			"proof": [
+				"cheating sniper with aimbot/esp, 1-year-old account, black avatar and glitch-type name, etc",
+				"also a video of him cheating https://www.youtube.com/watch?v=QL6gFkDWVRU"
+			],
+			"steamid": "[U:1:1739189455]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PICKMEUP!",
+				"time": 1759687831
+			},
+			"proof": [
+				"False voting cheater; was aimbotting/walling on demo in my game",
+				"His alt can be found at https://steamhistory.net/id/76561199390346594, where it has a server ban for cheating",
+				"His ID 'roglet' was used by cheater https://steamhistory.net/id/76561198842276700 one month prior to him using it",
+				"In cheater groups: https://archive.vn/fWzqi"
+			],
+			"steamid": "[U:1:834947054]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "banan",
+				"time": 1759785670
+			},
+			"proof": [
+				"Dustbowl-only (?) cheater; will switch to medic or other classes to obfuscate cheating",
+				"Proof video: https://www.youtube.com/watch?v=lyI8T92uO1E"
+			],
+			"steamid": "[U:1:900901433]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Andrei",
+				"time": 1763226447
+			},
+			"proof": [
+				"Cheater, likely alt of 76561199382129166",
+				"Many cheaters like to rotate 'random' names with default/official Steam game avatars; keep an eye out",
+				"https://www.youtube.com/watch?v=Z8wqGUVCuYI no status in console tho"
+			],
+			"steamid": "[U:1:1509748939]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hi hello",
+				"time": 1763406699
+			},
+			"proof": [
+				"rage hacking alt"
+			],
+			"steamid": "[U:1:812294792]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Zzz",
+				"time": 1764055616
+			},
+			"proof": [
+				"fresh account created to cheat"
+			],
+			"steamid": "[U:1:1544254640]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "⁠‌﻿‌‌⁠​‍﻿⁠ｍ​‌​",
+				"time": 1764635671
+			},
+			"proof": [
+				"Increasingly obvious cheating soldier: autostrafe and bhop, then spamming forced crits",
+				"screenshot his own cheats: https://steamcommunity.com/sharedfiles/filedetails/?id=3495757041 (https://archive.is/ujhbx)"
+			],
+			"steamid": "[U:1:1268276814]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "⁠‌﻿‌‌⁠​‍﻿darcy",
+				"time": 1765124617
+			},
+			"proof": [
+				"Cheater on fresh account, nothing new"
+			],
+			"steamid": "[U:1:1871025666]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "⁠‌﻿‌‌⁠​‍﻿Magnus Carlsen",
+				"time": 1765145193
+			},
+			"proof": [
+				"brand new account created to cheat, it's premium so might as well mark it"
+			],
+			"steamid": "[U:1:802151598]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GoofBall",
+				"time": 1765221652
+			},
+			"proof": [
+				"Cheating sniper, headshots while looking 20 degrees away, Charlie Kirk avatar (people with these/Floyd/etc are usually cheating"
+			],
+			"steamid": "[U:1:802527178]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "my lyfe be like",
+				"time": 1765929760
+			},
+			"proof": [
+				"Cheater, frequently parties with other cheaters"
+			],
+			"steamid": "[U:1:886614725]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "the1nonly",
+				"time": 1765935669
+			},
+			"proof": [
+				"Cheating scout with fakelag, hitting every shot, no gamesense, etc."
+			],
+			"steamid": "[U:1:889902298]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Decoldest Crawford",
+				"time": 1766017903
+			},
+			"proof": [
+				"Cheating demo rage aimbotting stickies and forcing crits"
+			],
+			"steamid": "[U:1:299404271]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "n",
+				"time": 1766085321
+			},
+			"proof": [
+				"aimbotting heavy with force crits"
+			],
+			"steamid": "[U:1:871567414]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "man0plux",
+				"time": 1766346126
+			},
+			"proof": [
+				"Aimbotting soldier with farmed Casual Tier 8 on a 16-day-old account (https://i.imgur.com/wGfu5es.png)",
+				"What NOT to do when called out: when told to toggle off, he sent 4 straight argumentative messages in the chat and sent me a friend request",
+				"Also stacked with another cheater on a bought/fraudulently obtained account; not exactly a great way to indicate one's legitimacy"
+			],
+			"steamid": "[U:1:801397247]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ammy",
+				"time": 1766346126
+			},
+			"proof": [
+				"Stacked with obvious cheater 76561198761662975",
+				"Purchased account: created in 2013 but has no SteamID.uk/SteamHistory results before mid-2025",
+				"Began unlocking badges himself in June 2025; has only year badge (which updates automatically) and beta card tester badge (these are often sold for this badge)",
+				"I would suggest throwing in a report, as he must receive a higher amount already simply thanks to cheating, so yours may trigger a review."
+			],
+			"steamid": "[U:1:122344696]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "released",
+				"time": 1767995148
+			},
+			"proof": [
+				"Autostrafing sniper with body-only machina triggerbot",
+				"Obviously farmed hours: 3205 hours on one-year-old account, only 75 in game"
+			],
+			"steamid": "[U:1:1699386858]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dead By Daylight Incel",
+				"time": 1768160988
+			},
+			"proof": [
+				"Alt of 76561199577864062, 76561199636423432, others",
+				"Searches for his id64 reveal cheating bans in other games as well; not solely a TF2 cheater"
+			],
+			"steamid": "[U:1:1874956478]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "wholesome femboy!! :3",
+				"time": 1768684673
+			},
+			"proof": [
+				"stacked with cheater 76561198747989905"
+			],
+			"steamid": "[U:1:794097677]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown Player",
+				"time": 1768684750
+			},
+			"proof": [
+				"account already deleted by steam, marked to keep data set as accurate as possible"
+			],
+			"steamid": "[U:1:787724177]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "brother kisser",
+				"time": 1768787326
+			},
+			"proof": [
+				"rage sniper with game ban 50 days ago"
+			],
+			"steamid": "[U:1:1874086798]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "CолнцепеKKK | MOMS EBOMS",
+				"time": 1768917450
+			},
+			"proof": [
+				"server-crashing cheater, interested to see when deleted"
+			],
+			"steamid": "[U:1:1667278365]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "and for my next trick",
+				"time": 1770246392
+			},
+			"proof": [
+				"Cheating sniper, throwing out accusations in chat right up until we found his RGL bans for 'cheating - multiple offences'",
+				"https://rgl.gg/Public/PlayerProfile?p=76561198397386490",
+				"Looks to be a purchased account: created 2017, no history until 2024",
+				"Associated with/possible alt of known & confirmed cheater 76561199015456313"
+			],
+			"steamid": "[U:1:437120762]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bella",
+				"time": 1770613491
+			},
+			"proof": [
+				"generic brony cheater"
+			],
+			"steamid": "[U:1:1273441948]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hay buddies",
+				"time": 1770613491
+			},
+			"proof": [
+				"cheater with game ban 80 days ago"
+			],
+			"steamid": "[U:1:1269387268]"
+		}
+	]
+}
